@@ -49,6 +49,9 @@ INSTALLED_APPS = [
     # members
     'members',
 
+    # posts
+    'posts',
+
     # allauth
     'allauth',
     'allauth.account',
