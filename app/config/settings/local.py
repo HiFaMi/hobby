@@ -46,6 +46,9 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django.contrib.sites',
 
+    # django rest framework
+    'rest_framework',
+
     # members
     'members',
 
